@@ -1,1 +1,2 @@
-# campylobacter-cluster-detection
+# WGScluster-an application for genotyping
+
