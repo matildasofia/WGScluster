@@ -1,0 +1,8 @@
+  class: spades
+  version: latest
+  imageName: spadesimage
+  commonName: spadesimage
+  baseCommands:
+    - spades.py
+  flags:
+    - --isolate
