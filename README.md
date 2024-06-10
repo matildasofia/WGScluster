@@ -1,2 +1,2 @@
-# WGScluster - an application for genotyping
+# WGScluster - a desktop application for genotyping bacteria
 
